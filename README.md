@@ -1,1 +1,2 @@
 🔭 I’m currently working on AI/ML & IoT projects<br>👯 I’m looking to collaborate on IoT, Embedded Systems & AI/ML projects<br>🤝 I’m looking for help with smart IoT & Machine Learning solutions<br>🌱 I’m currently learning Python, Java, Embedded C, IoT & Machine Learning<br>💬 Ask me about IoT, Embedded Systems, Sensors & AI/ML<br>⚡ Fun fact I enjoy turning real-world problems into smart technology solutions 🚀
+
